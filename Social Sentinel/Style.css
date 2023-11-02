@@ -1,0 +1,171 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: url('Images/BG.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+/*---------------------------------------Navbar--------------------------------*/
+
+nav {
+    width: 100%;
+    top: 0;
+    position: fixed;
+    padding: 5px;
+    z-index: 10;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-right {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-right img {
+    width: 40px;
+    margin-right: 20px;
+}
+
+.nav-right a p {
+    font-size: 20px;
+}
+
+.nav-left {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-left a {
+    padding: 10px;
+}
+
+/*---------------------------------------Main--------------------------------*/
+
+main {
+    width: 100%;
+    margin-top: 70px;
+}
+
+.Containor {
+    width: 100%;
+    margin-left: 30px;
+}
+
+.Containor .P-Head {
+    font-size: 40px;
+    color: white;
+}
+
+.Containor .content .header {
+    font-size: 30px;
+    width: 50%;
+    height: 200px;
+    color: white;
+}
+
+.Containor .content .footer {
+    font-size: 30px;    height: 200px;
+    color: white;
+}
+/*---------------------------------------Detection--------------------------------*/
+
+.Containor-Detect {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 30%;
+    height: 235px;
+    border: 2px solid white;
+}
+
+.heading {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.text1 {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+
+.inputt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputt input {
+    margin-top: 20px;
+    width: 65%;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn button {
+    width: 65%;
+    margin-top: 30px;
+}
+
+#result {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    color: white;
+}
+
+#userDetailsContainer {
+    display: none;
+    color: white;
+}
+
+#userDetailsContainer img {
+    width: 80px;
+    height: 81px;
+    border-radius: 58px;
+    margin-right: 10px;
+    color: white;
+}
+
+#boxx {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    border-color: white;
+    border-color: white;
+    width: 100%;
+    color: white;
+}
