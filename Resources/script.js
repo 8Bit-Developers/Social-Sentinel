@@ -27,10 +27,10 @@ function isfakeacc(user) {
 const users = [
     {
         username: "ankit._.atcc",
-        followersCount: 0,
+        followersCount: 88,
         postsCount: 0,
         isVerified: false,
-        profilepic: "Images/Logo.png",
+        profilepic: "Images/PFP/ankit._.atcc.jpg",
         creationDate: '2021-12-01',
     },
        {
