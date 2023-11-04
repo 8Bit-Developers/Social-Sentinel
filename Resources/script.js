@@ -102,7 +102,7 @@ const users = [
         followersCount: 80700000,
         postsCount: 669,
         isVerified: true,
-        profilepic: 'images/PFP/narendramodi.jpg',
+        profilepic: 'Images/PFP/narendramodi.jpg',
         creationDate: '2014-5-01',
     },
 	 {
@@ -110,7 +110,7 @@ const users = [
         followersCount: 17300000,
         postsCount: 2321,
         isVerified: true,
-        profilepic: 'images/PFP/joebiden.jpg',
+        profilepic: 'Images/PFP/joebiden.jpg',
         creationDate: '2017-11-01',
     },
 	 {
@@ -118,7 +118,7 @@ const users = [
         followersCount: 25500000,
         postsCount: 6300,
         isVerified: true,
-        profilepic: 'images/PFP/realdonaldtrump.jpg',
+        profilepic: 'Images/PFP/realdonaldtrump.jpg',
         creationDate: '2013-4-01',
     },
 	 {
@@ -126,7 +126,7 @@ const users = [
         followersCount: 174000,
         postsCount: 637,
         isVerified: true,
-        profilepic: 'images/PFP/mahindra_auto.jpg',
+        profilepic: 'Images/PFP/mahindra_auto.jpg',
         creationDate: '2018-5-01',
     },
 	 {
@@ -134,7 +134,7 @@ const users = [
         followersCount: 8800000,
         postsCount: 60,
         isVerified: true,
-        profilepic: 'images/PFP/ratantata.jpg',
+        profilepic: 'Images/PFP/ratantata.jpg',
         creationDate: '2019-10-01',
     },
 	 {
@@ -142,7 +142,7 @@ const users = [
         followersCount: 418000,
         postsCount: 2631,
         isVerified: true,
-        profilepic: 'images/PFP/tatamotorscars.jpg',
+        profilepic: 'Images/PFP/tatamotorscars.jpg',
         creationDate: '2020-4-01',
     },
 	 {
@@ -150,7 +150,7 @@ const users = [
         followersCount: 2800000,
         postsCount: 4569,
         isVerified: true,
-        profilepic: 'images/PFP/royalenfield.jpg',
+        profilepic: 'Images/PFP/royalenfield.jpg',
         creationDate: '2012-11-01',
     },
 	 {
@@ -158,7 +158,7 @@ const users = [
         followersCount: 349000,
         postsCount: 3246,
         isVerified: true,
-        profilepic: 'images/PFP/heromotocorp.jpg',
+        profilepic: 'Images/PFP/heromotocorp.jpg',
         creationDate: '2014-1-01',
     },
 	 {
@@ -166,7 +166,7 @@ const users = [
         followersCount: 13400000,
         postsCount: 1390,
         isVerified: true,
-        profilepic: 'images/PFP/yoyohoneysingh.jpg',
+        profilepic: 'Images/PFP/yoyohoneysingh.jpg',
         creationDate: '2014-3-01',
     },
 	 {
@@ -174,7 +174,7 @@ const users = [
         followersCount: 10400000,
         postsCount: 1390,
         isVerified: true,
-        profilepic: 'images/PFP/m___c___stan.jpg',
+        profilepic: 'Images/PFP/m___c___stan.jpg',
         creationDate: '2017-8-01',
     },
 	 {
@@ -182,7 +182,7 @@ const users = [
         followersCount: 547000,
         postsCount: 33,
         isVerified: true,
-        profilepic: 'images/PFP/gautam.adani.jpg',
+        profilepic: 'Images/PFP/gautam.adani.jpg',
         creationDate: '2018-9-1',
     },
 	 {
@@ -190,7 +190,7 @@ const users = [
         followersCount: 59,
         postsCount:0 ,
         isVerified: false,
-        profilepic: 'images/PFP/hhfhgdhffg.jpg',
+        profilepic: 'Images/PFP/hhfhgdhffg.jpg',
         creationDate: '2023-9-1',
     },
 	 {
@@ -198,7 +198,7 @@ const users = [
         followersCount: 989 ,
         postsCount: 317  ,
         isVerified: false,
-        profilepic: 'images/PFP/ghelo_bijlo9998.jpg',
+        profilepic: 'Images/PFP/ghelo_bijlo9998.jpg',
         creationDate: '2020-7-1',
     },
 	 {
@@ -206,7 +206,7 @@ const users = [
         followersCount: 579 ,
         postsCount: 134,
         isVerified: false,
-        profilepic: 'images/PFP/krishna_u_r_ mine__0407.jpg',
+        profilepic: 'Images/PFP/krishna_u_r_ mine__0407.jpg',
         creationDate: '2020-9-1',
     },
 	 {
@@ -214,7 +214,7 @@ const users = [
         followersCount: 147,
         postsCount: 5,
         isVerified: false,
-        profilepic: 'images/PFP/aashlesh_soneji__.jpg',
+        profilepic: 'Images/PFP/aashlesh_soneji__.jpg',
         creationDate: '2021-5-1',
     },
 	 {
@@ -222,7 +222,7 @@ const users = [
         followersCount: 206,
         postsCount: 15,
         isVerified: false,
-        profilepic: 'images/PFP/ll_v31_ll.jpg', 
+        profilepic: 'Images/PFP/ll_v31_ll.jpg', 
         creationDate: '2017-12-1',
     },
 	 {
@@ -230,7 +230,7 @@ const users = [
         followersCount: 10100,
         postsCount: 11 ,
         isVerified: false,
-        profilepic: 'images/PFP/itzz_rider_007.jpg',
+        profilepic: 'Images/PFP/itzz_rider_007.jpg',
         creationDate: '2020-8-1',
     },
 	 {
@@ -238,7 +238,7 @@ const users = [
         followersCount: 2712,
         postsCount: 61,
         isVerified: false,
-        profilepic: 'images/PFP/strangeverse_616.jpg',  
+        profilepic: 'Images/PFP/strangeverse_616.jpg',  
         creationDate: '2023-6-1',
     },
 	 {
@@ -246,7 +246,7 @@ const users = [
         followersCount: 9585,
         postsCount: 133,
         isVerified: false,
-        profilepic: 'images/PFP/supermotersport.jpg',
+        profilepic: 'Images/PFP/supermotersport.jpg',
         creationDate: '2022-12-1',
     },
 	 {
@@ -254,7 +254,7 @@ const users = [
         followersCount: 2700000,
         postsCount: 6687,
         isVerified: true,
-        profilepic: 'images/PFP/chefkunal.jpg',
+        profilepic: 'Images/PFP/chefkunal.jpg',
         creationDate: '2012-4-1',
     },
 	 {
@@ -262,7 +262,7 @@ const users = [
         followersCount: 2900000,
         postsCount: 6887,
         isVerified: true,
-        profilepic: 'images/PFP/ranveer.brar.jpg',
+        profilepic: 'Images/PFP/ranveer.brar.jpg',
         creationDate: '2013-10-1',
     },
 	 {
@@ -270,7 +270,7 @@ const users = [
         followersCount: 92700,
         postsCount: 1966,
         isVerified: false,
-        profilepic: 'images/PFP/living_true05.jpg',
+        profilepic: 'Images/PFP/living_true05.jpg',
         creationDate: '2022-7-1',
     },
 	 {
@@ -278,7 +278,7 @@ const users = [
         followersCount: 210000,
         postsCount: 862,
         isVerified: false,
-        profilepic: 'images/PFP/shinchan humors.jpg',
+        profilepic: 'Images/PFP/shinchan humors.jpg',
         creationDate: '2020-12-1',
     },
 	 {
@@ -286,7 +286,7 @@ const users = [
         followersCount: 7900000,
         postsCount: 66600,
         isVerified: true,
-        profilepic: 'images/PFP/viralbhayani.jpg',
+        profilepic: 'Images/PFP/viralbhayani.jpg',
         creationDate: '2015-6-1',
     },
 	 {
@@ -294,7 +294,7 @@ const users = [
         followersCount: 1100000,
         postsCount: 1043,
         isVerified: true,
-        profilepic: 'images/PFP/focusedIndian.jpg',
+        profilepic: 'Images/PFP/focusedIndian.jpg',
         creationDate: '2018-2-1',
     },
 	 {
@@ -302,7 +302,7 @@ const users = [
         followersCount: 964000,
         postsCount: 3547,
         isVerified: true,
-        profilepic: 'images/PFP/boat.nirvana.jpg',
+        profilepic: 'Images/PFP/boat.nirvana.jpg',
         creationDate: '2016-9-1',
     },
 	 {
@@ -310,7 +310,7 @@ const users = [
         followersCount: 15500 ,
         postsCount: 12700 ,
         isVerified: true,
-        profilepic: 'images/PFP/middaygujarati.jpg',
+        profilepic: 'Images/PFP/middaygujarati.jpg',
         creationDate: '2018-11-1',
     },
     {
@@ -318,7 +318,7 @@ const users = [
         followersCount: 0 ,
         postsCount: 0 ,
         isVerified: false,
-        profilepic: 'images/PFP/cgffu.jpg',
+        profilepic: 'Images/PFP/cgffu.jpg',
         creationDate: '2016-5-1',
     },
 	 {
@@ -326,7 +326,7 @@ const users = [
         followersCount: 0 ,
         postsCount: 3 ,
         isVerified: false,
-        profilepic: 'images/PFP/duduuul.jpg',
+        profilepic: 'Images/PFP/duduuul.jpg',
         creationDate: '2012-8-1',
     },
 	 {
@@ -334,7 +334,7 @@ const users = [
         followersCount: 2200000 ,
         postsCount: 176 ,
         isVerified: true,
-        profilepic: 'images/PFP/vivianakadivine.jpg',
+        profilepic: 'Images/PFP/vivianakadivine.jpg',
         creationDate: '2013-1-1',
     },
 	 {
@@ -342,7 +342,7 @@ const users = [
         followersCount: 9300000 ,
         postsCount: 2001 ,
         isVerified: true ,
-        profilepic: 'images/PFP/joesthetics.jpg',
+        profilepic: 'Images/PFP/joesthetics.jpg',
         creationDate: '2013-11-1',
     },
 	 {
@@ -350,7 +350,7 @@ const users = [
         followersCount: 82800  ,
         postsCount: 296 ,
         isVerified:  false ,
-        profilepic: 'images/PFP/stark__editz.jpg',
+        profilepic: 'Images/PFP/stark__editz.jpg',
         creationDate: '2019-7-1',
     },
 	 {
@@ -358,7 +358,7 @@ const users = [
         followersCount: 512000 ,
         postsCount: 115 ,
         isVerified: false ,
-        profilepic: 'images/PFP/shree_kishorii.jpg',
+        profilepic: 'Images/PFP/shree_kishorii.jpg',
         creationDate: '2020-2-1',
     },
 	 {
@@ -366,7 +366,7 @@ const users = [
         followersCount: 429000 ,
         postsCount:  372,
         isVerified: false ,
-        profilepic: 'images/PFP/_i_ankitaa.jpg',
+        profilepic: 'Images/PFP/_i_ankitaa.jpg',
         creationDate: '2017-11-1',
     },
 	 {
@@ -374,7 +374,7 @@ const users = [
         followersCount: 1400000 ,
         postsCount: 1918  ,
         isVerified: true ,
-        profilepic: 'images/PFP/pulkitsamrat.jpg',
+        profilepic: 'Images/PFP/pulkitsamrat.jpg',
         creationDate: '2011-8-1',
     },
 	 {
@@ -382,7 +382,7 @@ const users = [
         followersCount: 24800000 ,
         postsCount: 1992 ,
         isVerified: true ,
-        profilepic: 'images/PFP/sonu_sood.jpg',
+        profilepic: 'Images/PFP/sonu_sood.jpg',
         creationDate: '2014-5-1',
     },
 	 {
@@ -390,7 +390,7 @@ const users = [
         followersCount: 787627 ,
         postsCount: 1863 ,
         isVerified: true ,
-        profilepic: 'images/PFP/iconmekh.jpg',
+        profilepic: 'Images/PFP/iconmekh.jpg',
         creationDate: '2015-2-1',
     },
 	 {
@@ -398,7 +398,7 @@ const users = [
         followersCount:146402  ,
         postsCount: 2415 ,
         isVerified: false ,
-        profilepic: 'images/PFP/dushyant__singh298.jpg',
+        profilepic: 'Images/PFP/dushyant__singh298.jpg',
         creationDate: '2017-2-1',
     },
 	 {
@@ -406,7 +406,7 @@ const users = [
         followersCount: 21195,
         postsCount: 1581 ,
         isVerified: false ,
-        profilepic: 'images/PFP/karma_sagara.jpg',
+        profilepic: 'Images/PFP/karma_sagara.jpg',
         creationDate: '2018-12-1',
     },
 	 {
@@ -414,7 +414,7 @@ const users = [
         followersCount:674461  ,
         postsCount: 339 ,
         isVerified: false  ,
-        profilepic: 'images/PFP/ph_onk.jpg',
+        profilepic: 'Images/PFP/ph_onk.jpg',
         creationDate: '2023-5-1',
     },
 	 {
@@ -422,7 +422,7 @@ const users = [
         followersCount: 7183924 ,
         postsCount: 1729 ,
         isVerified: true ,
-        profilepic: 'images/PFP/ankit_baiyanpuria.jpg',
+        profilepic: 'Images/PFP/ankit_baiyanpuria.jpg',
         creationDate: '2016-3-1',
     },
 	 {
@@ -430,7 +430,7 @@ const users = [
         followersCount:15687998  ,
         postsCount: 1068 ,
         isVerified: true ,
-        profilepic: 'images/PFP/elvish_yadav.jpg',
+        profilepic: 'Images/PFP/elvish_yadav.jpg',
         creationDate: '2016-5-1',
     },
 	 {
@@ -438,7 +438,7 @@ const users = [
         followersCount: 7050043 ,
         postsCount: 711 ,
         isVerified: true ,
-        profilepic: 'images/PFP/fukra_insaan.jpg',
+        profilepic: 'Images/PFP/fukra_insaan.jpg',
         creationDate: '2013-12-1',
     },
 	 {
@@ -446,7 +446,7 @@ const users = [
         followersCount: 7519379 ,
         postsCount: 552 ,
         isVerified: true ,
-        profilepic: 'images/PFP/triggeredinsaan.jpg',
+        profilepic: 'Images/PFP/triggeredinsaan.jpg',
         creationDate: '2017-5-1',
     },
 	 {
@@ -454,7 +454,7 @@ const users = [
         followersCount: 2858597 ,
         postsCount: 29641 ,
         isVerified:  true,
-        profilepic: 'images/PFP/puneetsuper_starrrr.jpg',
+        profilepic: 'Images/PFP/puneetsuper_starrrr.jpg',
         creationDate: '2020-2-1',
     },
 	 {
@@ -462,7 +462,7 @@ const users = [
         followersCount: 11500 ,
         postsCount: 12 ,
         isVerified: true  ,
-        profilepic: 'images/PFP/bhupendrajogi.jpg',
+        profilepic: 'Images/PFP/bhupendrajogi.jpg',
         creationDate: '2016-11-1',
     },
 	{
@@ -470,7 +470,7 @@ const users = [
         followersCount: 13450163 ,
         postsCount: 539 ,
         isVerified: true ,
-        profilepic: 'images/PFP/carryminati.jpg',
+        profilepic: 'Images/PFP/carryminati.jpg',
         creationDate: '2015-5-1',
     },
 	{
@@ -478,7 +478,7 @@ const users = [
         followersCount: 610548285 ,
         postsCount: 3575 ,
         isVerified:  true,
-        profilepic: 'images/PFP/cristiano.jpg',
+        profilepic: 'Images/PFP/cristiano.jpg',
         creationDate: '2015-5-1',
     },
 	{
@@ -486,7 +486,7 @@ const users = [
         followersCount: 35965275 ,
         postsCount: 1254 ,
         isVerified:true  ,
-        profilepic: 'images/PFP/amitabhbachchan.jpg',
+        profilepic: 'Images/PFP/amitabhbachchan.jpg',
         creationDate: '2013-2-1',
     },
 	{
@@ -494,7 +494,7 @@ const users = [
         followersCount:  1336393,
         postsCount: 26 ,
         isVerified:  true,
-        profilepic: 'images/PFP/techno_gamerz.jpg',
+        profilepic: 'Images/PFP/techno_gamerz.jpg',
         creationDate: '2017-12-1',
     },
 	{
@@ -502,7 +502,7 @@ const users = [
         followersCount: 3872682 ,
         postsCount: 1082 ,
         isVerified: true  ,
-        profilepic: 'images/PFP/scoutop.jpg',
+        profilepic: 'Images/PFP/scoutop.jpg',
         creationDate: '2014-5-1',
     },
 	{
@@ -510,7 +510,7 @@ const users = [
         followersCount: 652 ,
         postsCount: 115 ,
         isVerified: false ,
-        profilepic: 'images/PFP/mr_dharam01.jpg',
+        profilepic: 'Images/PFP/mr_dharam01.jpg',
         creationDate: '2015-9-1',
     },
 	{
@@ -518,7 +518,7 @@ const users = [
         followersCount: 366 ,
         postsCount: 4 ,
         isVerified: false ,
-        profilepic: 'images/PFP/dhaval_vyas_2112.jpg',
+        profilepic: 'Images/PFP/dhaval_vyas_2112.jpg',
         creationDate: '2016-11-1',
     },
 	{
@@ -526,7 +526,7 @@ const users = [
         followersCount: 509 ,
         postsCount: 31 ,
         isVerified: false ,
-        profilepic: 'images/PFP/anil_kuvariya_.jpg',
+        profilepic: 'Images/PFP/anil_kuvariya_.jpg',
         creationDate: '2019-8-1',
     },
 	{
@@ -534,7 +534,7 @@ const users = [
         followersCount: 307 ,
         postsCount: 0 ,
         isVerified: false ,
-        profilepic: 'images/PFP/___kotadiya__.jpg',
+        profilepic: 'Images/PFP/___kotadiya__.jpg',
         creationDate: '2021-9-1',
     },
 	{
@@ -542,7 +542,7 @@ const users = [
         followersCount: 240  ,
         postsCount: 15 ,
         isVerified: false ,
-        profilepic: 'images/PFP/luckyy_____04.jpg',
+        profilepic: 'Images/PFP/luckyy_____04.jpg',
         creationDate: '2022-4-1',
     },
 	{
@@ -550,7 +550,7 @@ const users = [
         followersCount: 1827 ,
         postsCount: 14 ,
         isVerified: false ,
-        profilepic: 'images/PFP/patel.in___.jpg',
+        profilepic: 'Images/PFP/patel.in___.jpg',
         creationDate: '2020-4-1',
     },
 	{
@@ -558,7 +558,7 @@ const users = [
         followersCount:470  ,
         postsCount: 51 ,
         isVerified: false ,
-        profilepic: 'images/PFP/ms.s.k.vyas.jpg',
+        profilepic: 'Images/PFP/ms.s.k.vyas.jpg',
         creationDate: '2018-10-1',
     },
 	{
@@ -566,7 +566,7 @@ const users = [
         followersCount:403  ,
         postsCount: 6 ,
         isVerified:false  ,
-        profilepic: 'images/PFP/pushprajsinh._.1606.jpg',
+        profilepic: 'Images/PFP/pushprajsinh._.1606.jpg',
         creationDate: '2020-10-1',
     },
 ];
