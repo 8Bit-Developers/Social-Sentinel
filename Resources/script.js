@@ -576,7 +576,9 @@ function detect() {
     const useridinput = document.getElementById('useridinput').value;
     const user = users.find(u => u.username === useridinput);
     const result = document.getElementById('result'); 
-    const p_attributes = document.querySelector('.profile_attributes')
+    const p_attributes = document.querySelector('.profile_attributes');
+    const dresult = document.querySelector('.detect-result');
+    
 
     if(user){
         if(isfakeacc(user)) {
@@ -599,6 +601,7 @@ function detect() {
         result.innerHTML = `user ${useridinput} not found. `;
         profile_attribute.style.display = 'none';
         profile_attributes.style.display = 'none';
+        dresult.style.display = 'none';
     }
 
 }
